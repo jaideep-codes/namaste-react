@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React - Akshay Saini (Front end development course)",
+  "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaideepcodes-git/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jaideepcodes-git/namaste-react/issues"
+  },
+  "homepage": "https://github.com/jaideepcodes-git/namaste-react#readme"
+}
