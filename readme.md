@@ -36,28 +36,11 @@ namaste-react/
 │
 ├── README.md
 ├── .gitignore
-│
 ├── Notes/                          # Detailed lecture notes from Namaste React
-│   ├── episode-01.md
-│   ├── episode-02.md
-│   ├── episode-03.md
-│   ├── episode-04.md
-│   └── episode-05.md
-│
 ├── Assignments/                    # Course assignments and exercises
-│
-├── Projects/                       # Projects built while following the course
+└── Projects/                       # Projects built while following the course
 │   └── food-ordering-app/
-│       ├── index.html
-│       ├── package.json
-│       ├── package-lock.json
-│       ├── .gitignore
-│       │
-│       └── src/
-│           ├── app.js
-│           └── index.css
-│
-└── (future projects...)
+│   └── (future projects...)
 ```
 
 This structure may evolve as I progress further in the course.
